@@ -1,0 +1,13 @@
+# Archivos de sistema y python compilado
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Entornos virtuales (si tienes alguno dentro)
+env/
+venv/
+.venv/
+
+# Datos (Opcional: Si quieres subir los csv déjalos, si no, descomenta abajo)
+# *.csv
